@@ -78,7 +78,7 @@
   - 结果格式： rust x.y.z（abcabcabc yyyy-mm-dd）
   - 会显示最新稳定版得：版本号、commit hash、commit 日期
   
-  ![1726976526926](.\rust\1726976526926.jpg)
+  ![1726976526926](./rust/1726976526926.jpg)
 
 ### 本地文档
 
